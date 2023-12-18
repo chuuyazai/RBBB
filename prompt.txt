@@ -1,0 +1,5 @@
+chapter106-new.jpeg, "Make me a new picture using this picture"
+chapter107-new.jpeg, "Make me a new manga panel with faces from this image"
+chapter108-new.jpeg, "Make me a new manga panel with faces and texts from this image"
+chapter110-new.jpeg, "Make me a new manga panel with faces and texts from this image"
+chapter111-new.jpeg, "Make me a new manga panel with faces and texts from this image"
